@@ -64,7 +64,7 @@ I specialize in building new projects from scratch and maintaining existing appl
   <a href="mailto:eruqulpuaro@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Contact Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://github.com/hdoublin">
+  <a href="https://github.com/devjourney2019">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://teams.live.com/l/invite/FBAzldBdU4t08ZTmAQ" title="Message me">
